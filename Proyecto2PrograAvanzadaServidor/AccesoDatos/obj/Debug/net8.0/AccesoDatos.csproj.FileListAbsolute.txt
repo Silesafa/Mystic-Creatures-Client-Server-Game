@@ -1,0 +1,152 @@
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.Properties.Resources.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll

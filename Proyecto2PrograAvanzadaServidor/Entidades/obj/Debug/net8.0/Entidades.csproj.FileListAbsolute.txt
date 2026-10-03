@@ -1,0 +1,120 @@
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.Properties.Resources.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Entidades\obj\Debug\net8.0\ref\Entidades.dll

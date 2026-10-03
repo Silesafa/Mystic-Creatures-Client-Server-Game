@@ -1,0 +1,152 @@
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\pruebaproyecto1AndresAvanzada\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto1PrograAvanzada\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzada\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\AccesoDatos.dll.config
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\bin\Debug\net8.0\Entidades.dll.config
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\Proyecto2PrograAvanzadaServidor\Logica\obj\Debug\net8.0\ref\Logica.dll
