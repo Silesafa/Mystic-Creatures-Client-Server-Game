@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Proyecto2PrograAvanzadaServidor\AccesoDatos\AccesoDatos.csproj" />
+    <ProjectReference Include="..\..\..\Proyecto2PrograAvanzadaServidor\Entidades\Entidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Entidades">
+      <HintPath>..\..\..\Proyecto2PrograAvanzadaServidor\Entidades\bin\Debug\net8.0\Entidades.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

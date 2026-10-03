@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\ClienteTCP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\ClienteTCP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\ClienteTCP.csproj",
+        "projectName": "ClienteTCP",
+        "projectPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\ClienteTCP.csproj",
+        "packagesPath": "C:\\Users\\siles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\siles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\AccesoDatos.csproj"
+              },
+              "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\AccesoDatos.csproj",
+        "projectName": "AccesoDatos",
+        "projectPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\siles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\siles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\siles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\siles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

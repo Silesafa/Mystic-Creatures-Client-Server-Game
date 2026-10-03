@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormBatalla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormClienteTCP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInventarioCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegistroCriaturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTopGanadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="FormBatalla.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormClienteTCP.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormEquipo.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormInventarioCliente.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormRegistroCriaturas.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormTopGanadores.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

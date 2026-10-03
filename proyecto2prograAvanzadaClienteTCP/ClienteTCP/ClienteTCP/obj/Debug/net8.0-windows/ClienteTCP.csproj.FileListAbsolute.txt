@@ -1,0 +1,219 @@
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfo.cs
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.exe
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.deps.json
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.runtimeconfig.json
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\refint\ClienteTCP.dll
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.genruntimeconfig.cache
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ref\ClienteTCP.dll
+C:\Users\siles\Desktop\proyecto1AndresAvanzada\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormClienteTCP.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormClienteTCP.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormInventarioCliente.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormRegistroCriaturas.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormTopGanadores.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.exe
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.runtimeconfig.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\refint\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.genruntimeconfig.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto1\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ref\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.exe
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.runtimeconfig.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormBatalla.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormClienteTCP.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormEquipo.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormInventarioCliente.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormRegistroCriaturas.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormTopGanadores.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\refint\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.genruntimeconfig.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ref\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.exe
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.deps.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.runtimeconfig.json
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll.config
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormBatalla.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormClienteTCP.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormEquipo.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormInventarioCliente.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormRegistroCriaturas.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormTopGanadores.resources
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfo.cs
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.Up2Date
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\refint\ClienteTCP.dll
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.genruntimeconfig.cache
+C:\Users\siles\Desktop\AndresCespedesSiles_Proyecto2ultimo\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ref\ClienteTCP.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.exe
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.deps.json
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.runtimeconfig.json
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormBatalla.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormClienteTCP.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormEquipo.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormInventarioCliente.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormRegistroCriaturas.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormTopGanadores.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfo.cs
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.Up2Date
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\refint\ClienteTCP.dll
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.genruntimeconfig.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ref\ClienteTCP.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.exe
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.deps.json
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.runtimeconfig.json
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\AccesoDatos.dll.config
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\bin\Debug\net8.0-windows\Entidades.dll.config
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormBatalla.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormClienteTCP.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormEquipo.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormInventarioCliente.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormRegistroCriaturas.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.FormTopGanadores.resources
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfoInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.AssemblyInfo.cs
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.csproj.Up2Date
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\refint\ClienteTCP.dll
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.pdb
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ClienteTCP.genruntimeconfig.cache
+C:\Users\siles\Desktop\UNED\Progra Avanzada\Proyecto2\AndresCespedesSiles_Proyecto\proyecto2prograAvanzadaClienteTCP\ClienteTCP\ClienteTCP\obj\Debug\net8.0-windows\ref\ClienteTCP.dll

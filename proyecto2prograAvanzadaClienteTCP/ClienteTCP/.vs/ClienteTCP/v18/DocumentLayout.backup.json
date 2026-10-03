@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formclientetcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formclientetcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\clientetcp\\formclientetcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formclientetcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591414D2-0950-9C41-E314-5238E6BD3147}|..\\..\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\AccesoDatos.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaservidor\\accesodatos\\batalladatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formtopganadores.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formtopganadores.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formregistrocriaturas.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formregistrocriaturas.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\forminventariocliente.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\forminventariocliente.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formequipo.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formequipo.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formclientetcp.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formclientetcp.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formbatalla.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formbatalla.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\clientetcp\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formbatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formbatalla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formbatalla.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formclientetcp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formclientetcp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|c:\\users\\siles\\desktop\\uned\\progra avanzada\\proyecto2\\andrescespedessiles_proyecto\\proyecto2prograavanzadaclientetcp\\clientetcp\\clientetcp\\formtopganadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formtopganadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\clientetcp\\formtopganadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC5B7B61-BED7-4A9A-98D9-5F8216683C1A}|ClienteTCP\\ClienteTCP.csproj|solutionrelative:clientetcp\\formtopganadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormInventarioCliente.resx",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormInventarioCliente.resx",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormInventarioCliente.resx",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormInventarioCliente.resx",
+              "RelativeToolTip": "ClienteTCP\\FormInventarioCliente.resx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T14:25:18.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEquipo.resx",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormEquipo.resx",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormEquipo.resx",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormEquipo.resx",
+              "RelativeToolTip": "ClienteTCP\\FormEquipo.resx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T14:25:18.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormClienteTCP.resx",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.resx",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormClienteTCP.resx",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.resx",
+              "RelativeToolTip": "ClienteTCP\\FormClienteTCP.resx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T14:25:18.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBatalla.resx",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.resx",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormBatalla.resx",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.resx",
+              "RelativeToolTip": "ClienteTCP\\FormBatalla.resx",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T14:25:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Batalladatos.cs",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\Batalladatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\Batalladatos.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\Batalladatos.cs",
+              "RelativeToolTip": "..\\..\\Proyecto2PrograAvanzadaServidor\\AccesoDatos\\Batalladatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:18.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormBatalla.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormBatalla.Designer.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.Designer.cs",
+              "RelativeToolTip": "ClienteTCP\\FormBatalla.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0wAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:18.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormClienteTCP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormClienteTCP.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.cs [Design]",
+              "RelativeToolTip": "ClienteTCP\\FormClienteTCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:19.009Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormClienteTCP.cs",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormClienteTCP.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.cs",
+              "RelativeToolTip": "ClienteTCP\\FormClienteTCP.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwEEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:19.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegistroCriaturas.resx",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormRegistroCriaturas.resx",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormRegistroCriaturas.resx",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormRegistroCriaturas.resx",
+              "RelativeToolTip": "ClienteTCP\\FormRegistroCriaturas.resx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T14:25:20.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTopGanadores.resx",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormTopGanadores.resx",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormTopGanadores.resx",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormTopGanadores.resx",
+              "RelativeToolTip": "ClienteTCP\\FormTopGanadores.resx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-03T14:25:20.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormClienteTCP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormClienteTCP.Designer.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormClienteTCP.Designer.cs",
+              "RelativeToolTip": "ClienteTCP\\FormClienteTCP.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormTopGanadores.cs",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormTopGanadores.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormTopGanadores.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormTopGanadores.cs",
+              "RelativeToolTip": "ClienteTCP\\FormTopGanadores.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAA0wLEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:20.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormTopGanadores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormTopGanadores.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormTopGanadores.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormTopGanadores.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormTopGanadores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:21.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormBatalla.cs",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormBatalla.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.cs",
+              "RelativeToolTip": "ClienteTCP\\FormBatalla.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAjwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:21.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormBatalla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\siles\\Desktop\\UNED\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.cs",
+              "RelativeDocumentMoniker": "ClienteTCP\\FormBatalla.cs",
+              "ToolTip": "C:\\Users\\siles\\Desktop\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Progra Avanzada\\Proyecto2\\AndresCespedesSiles_Proyecto\\proyecto2prograAvanzadaClienteTCP\\ClienteTCP\\ClienteTCP\\FormBatalla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T14:25:21.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
