@@ -127,6 +127,8 @@ ADO.NET
 | SQL Server |
 +----------------------+
 
+```
+
 ## 🗄️ Database Model
  
 ```text
